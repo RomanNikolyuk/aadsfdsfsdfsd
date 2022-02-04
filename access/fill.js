@@ -1,6 +1,6 @@
 if(isWorking) {
 	for(el of document.getElementsByClassName("birthdate")){
-		el.innerHTML = "Дата народження: " + birthdate;
+		el.innerHTML = "Дата народження: 08.08.2003";
 	}
 	for(el of document.getElementsByClassName("fullname")){
 		el.innerHTML = fullname;
