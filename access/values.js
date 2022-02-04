@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "08.08.2003"; // Дата рождения
-var fullname = "Николюк Роман Миколайовчс" // ФИО
+var fullname = "Николюк Роман Миколайович" // ФИО
 var name = "Роман" // Имя
 
 // Паспорт
